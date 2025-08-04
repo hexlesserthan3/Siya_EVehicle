@@ -65,7 +65,7 @@ This AI-powered tool forecasts **EV demand across counties** in Washington State
 
 ```bash
 # Clone the repository
-git clone https://github.com/tanishka234/EV_VEHICLE_DEMAND_PREDICTION.git
+git clone https://github.com/hexlesserthan3/Siya_EVehicle.git
 cd EV_VEHICLE_DEMAND_PREDICTION
 
 # Install dependencies
