@@ -66,7 +66,7 @@ This AI-powered tool forecasts **EV demand across counties** in Washington State
 ```bash
 # Clone the repository
 git clone https://github.com/hexlesserthan3/Siya_EVehicle.git
-cd EV_VEHICLE_DEMAND_PREDICTION
+cd Siya_EVehicle
 
 # Install dependencies
 pip install -r requirements.txt
@@ -141,7 +141,7 @@ Saved Model: forecasting_ev_model.pkl
 
 ```bash
 git clone https://github.com/hexlesserthan3/Siya_EVehicle.git
-cd EV_VEHICLE_DEMAND_PREDICTION
+cd Siya_EVehicle
 pip install -r requirements.txt
 ```
 
